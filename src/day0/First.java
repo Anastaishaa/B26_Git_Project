@@ -1,8 +1,11 @@
 package day0;
 
+import javax.management.MBeanAttributeInfo;
+
 public class First {
-    //TODO: WORK ON THISS TOMOROW
-    //EXTRA LINE 1
+    public static void main(String[] args) {
+        System.out.println("sss");
+    }
     //EXTRA 2
     //EXTRA 3
 }
